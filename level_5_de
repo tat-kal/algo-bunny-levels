@@ -1,0 +1,19 @@
+B11
+  1111
+     1
+     1
+---
+---
+Überall Karotten!
+---
+Iss alle Karotten.
+---
+Algo muss alle Karotten essen. Algo kann sich nach links ![](commands/left.svg)
+und nach rechts ![](commands/right.svg) drehen um den Job zu erledigen.
+---
+11111111
+---
+1
+---
+---
+eat_carrot,forward,left,right
