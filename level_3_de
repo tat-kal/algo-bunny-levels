@@ -1,1 +1,15 @@
-
+B11111
+---
+---
+Karottenzeit!
+---
+Iss alle Karotten.
+---
+Auf der linken Seite siehst du alle Anweisungen die du Algo geben kannst. Zieh die Anweisungen auf den Platz unterhalb von Algo ![](assets/start.svg) um Algo Carrot Instruction Set Code (CISC) mitzuteilen. Algo wird diesen Code dann befolgen um Karotten zu sammeln.
+---
+11111
+---
+1
+---
+---
+eat_carrot,forward
